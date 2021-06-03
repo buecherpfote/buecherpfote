@@ -1,7 +1,7 @@
 ### Welcome at buecherpfote's!
 
 I am a passionate literature student in her mid-twenties trying to learn some coding.
-Next to my bread-and-butter job as an editor for technical and it subjects in some PR agency I spend my remaining energy in learning how to code. Currently sticking my nose into node.js 🌱
+Next to my bread-and-butter job as an editor for technical and IT subjects in some PR agency I spend my remaining energy in learning how to code. Currently sticking my nose into node.js 🌱
 
 <!--
 **buecherpfote/buecherpfote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
